@@ -1,0 +1,12 @@
+FFMPEG BUILD SCRIPT
+-------------------
+
+Downloads, compiles and installs ffmpeg and it's dependencies into 
+/usr/local/
+
+Current scripts:
+ffmpeg-build-el6.sh - Redhat Enterprise linux 6 based distros inc. 
+                      Centos and scientific Linux
+
+If any problems please email me with all the log files created
+simon (at) simon-hargreaves.com 
